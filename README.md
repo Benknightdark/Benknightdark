@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [ScrapydDashboard](https://github.com/Benknightdark/ScrapydDashboard)
 
-- 🌱 I’m currently learning **golang, kubernetes**
+- 🌱 I’m currently learning **reactjs, python, golang and kubernetes**
 
 - 👯 I’m looking to collaborate on [OpenDataCollector](https://github.com/Benknightdark/OpenDataCollector)
 
