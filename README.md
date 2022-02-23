@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
-<h3 align="left">是一名Full Stack Developer，常為了寫更多Code和解決各種未知問題而忘了吃飯。最喜歡作的事情就是把筆電當Server來操</h3>
+<h3 align="left">是一名Full Stack Developer，常為了寫更多Code和解決各種未知問題而忘了吃飯，最喜歡作的事情就是把筆電當Server來操。</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benknightdark&label=Profile%20views&color=0e75b6&style=flat" alt="benknightdark" /> </p>
 
